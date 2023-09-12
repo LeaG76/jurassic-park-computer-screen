@@ -15,10 +15,14 @@ public class App extends Application {
 
     public void start(Stage window) {
         window.setTitle("Jurassic Park Computer Screen");
+        window.setWidth(1024);
+        window.setHeight(968);
+        window.setResizable(false);
+        window.centerOnScreen();
 
         StackPane layout = new StackPane();
 
-        Scene scene = new Scene(layout, 300, 300, Color.BLUE);
+        Scene scene = new Scene(layout, 300, 300, Color.rgb(138, 138, 146));
 
         window.setScene(scene);
 

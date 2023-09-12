@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0068BA?style=flat&logo=css3&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-0068BA?style=flat&logo=css3&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-E61F24?style=flat&logo=openjdk&logoColor=white" />
 </p>
 
